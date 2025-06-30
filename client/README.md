@@ -19,6 +19,10 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 ```sh
 npm install
 ```
+### to get data from the server
+1. clone server repository to the computer/pc/device
+2. npm i
+3. npm run start. server will run at http://localhost:3000
 
 ### Compile and Hot-Reload for Development
 
